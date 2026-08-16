@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-38zpv8.pulaucuanwin.sbs/sitemap.xml
